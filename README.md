@@ -12,6 +12,7 @@ Estos datasets cubren parcialmente, pero de forma importante, las dimensiones ce
 ```
 conectividad + salud + educación + pobreza/NBI + empleo/PEA + territorio
 ```
+*** Aca podemos abarcar tmb a la pobreza y empleo como el efecto de la falta de conectividad***
 
 ## 1. Dataset: GeoPeru-instituciones_educativas.xlsx
 ### Qué cubre
@@ -397,7 +398,7 @@ Todavía no tenemos una capa clara de:
 Aunque parte de esto puede aproximarse con educación técnico-productiva en instituciones_educativas.
 
 ### 4. Geometrías para mapas
-Tus Excel tienen códigos territoriales y algunas coordenadas, pero necesitamos confirmar si tenemos geometría completa de distritos/provincias/departamentos.
+Los Excel tienen códigos territoriales y algunas coordenadas, pero necesitamos confirmar si tenemos geometría completa de distritos/provincias/departamentos.
 
 Para hacer mapas buenos, necesitamos límites territoriales en formato:
 
